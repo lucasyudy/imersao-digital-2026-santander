@@ -13,6 +13,11 @@
 
 ---
 
+**Resolução das atividades e desafios:**
+- [Acesse aqui todos os desafios](./colab/atividades_semana_1.ipynb)
+
+---
+
 **O que foi estudado:**
 - Fundamentos da computação e lógica de programação
 - Pensamento computacional e decomposição de problemas
